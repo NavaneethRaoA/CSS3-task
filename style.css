@@ -1,0 +1,136 @@
+.container{
+    /* border : 2px red solid; */
+    height: 40px;
+    padding : 3px 20px 3px 0px;
+    background-color: whitesmoke;
+}
+.head1{
+    display: inline-block;
+     /* border : 2px red solid;  */
+     padding-left: 25px;
+    font-size: 15px;
+}
+.head2{
+    display: inline-block;
+    height: 15px;
+    /* border : 2px red solid;  */
+    /* margin-left: 250px; */
+    font-size: 15px;
+    padding-left: 800px;
+}
+.img1{
+    /* border: 2px red solid; */
+    height: 650px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.container2{
+    /* border: 2px solid red; */
+    height: 750px;
+    padding: 75px 10px 0px 150px;
+}
+.img2{
+    display: inline-block;
+    /* border: 2px red solid; */
+    height: 600px;
+    width: 450px;
+}
+.container2-1-1{
+display: inline-block;
+/* border: 2px red solid; */
+margin-left: 105px;
+}
+.container2-1-2{
+display: inline-block;
+/* border: 2px red solid; */
+margin-left: 123px;
+}
+.container2-1{
+    
+    display: inline-block;
+    /* border: 2px red solid; */
+    margin-left: 100px;
+    height: 600px;
+    width: 450px;
+}
+.container2-1>h2{
+    /* padding-top: 100px; */
+    font-size: 30px;
+}
+.container2-1>h3{
+    padding-top: 17px; ;
+    font-size: 15px;
+}
+.container2-1>p{
+    padding-top: 13px;
+    font-size: 16px;
+}
+.container3{
+    padding-left: 150px;
+    /* padding-right: 100px; */
+    /* border: 2px red solid; */
+    height: 750px;
+}
+.container3_1{
+    
+    display: inline-block;
+    /* border: 2px red solid; */
+    margin-left: 0px;
+    height: 700px;
+    width: 450px;
+}
+.container3_1>h3{
+    font-size: 15px;
+}.container3_1>h1{
+    font-size: 25px;
+}
+.container3_1>p{
+    font-size: 15px;
+}
+.img3{
+    margin-left: 100px;
+    display: inline-block;
+    /* border: 2px red solid; */
+    height: 700px;
+    width: 450px;
+}
+.container4{
+    /* border: 2px solid red; */
+    height: 750px;
+    padding-left: 200px;
+   padding-top: 100px;
+   padding-right: 200px;
+   margin-top: 50px;
+}
+.container4_1{
+    /* border: red 2px solid; */
+    font-size: 15px;
+}
+.container4_2{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+    font-size: 15px;
+}
+.container4_3{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+    font-size: 16px;
+    color: #607d8b;
+}
+.container4_4{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+    font-size: 15px;
+}
+.container4_5{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+    font-size: 15px;
+    
+}
+.button{
+    padding-top: 10px;
+    size: 20px;
+}
